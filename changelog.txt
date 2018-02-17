@@ -1,0 +1,44 @@
+Plugin Name: User Sync
+Author: WPMUDEV
+Lead developer: Maniu
+Contributors: Andrey Shipilov, Cole
+
+= 1.1.5.8 =
+Fixed file paths to work with SSL
+Improved compatibility with other plugins
+
+= 1.1.5.7 =
+Fixed issues with password synchronization
+
+= 1.1.5.6 =
+Fixed PHP 7 compatibility bug
+
+= 1.1.5.5 =
+Improved "Sync all sites now" functionality to decrease possibility of timeout
+Added check for HTTPS on admin
+Disabled SSL verifying
+
+= 1.1.5 =
+Fixed capabilities sync issue
+
+= 1.1.4 =
+Fixed issues related to custom db prefix
+
+= 1.1.3 =
+Added support for MP6
+Small UI improvements
+
+= 1.1.2 =
+Enabled loading of CSS and JS file only on User Sync admin page
+Increased sync actions priorities for improved compatibility with other plugins
+
+= 1.1.1 =
+Increased timeout for better syncing
+Improved admin interface
+
+= 1.1 =
+All additional user meta data is now updated on sync
+Fixed minor spelling issues
+
+
+403900-1513924128-au
